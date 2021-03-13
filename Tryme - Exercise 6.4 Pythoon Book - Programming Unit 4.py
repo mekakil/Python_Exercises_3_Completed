@@ -1,4 +1,6 @@
-"""@Mekakil"""
+"""
+@Author:Victor Hugo de Barros
+"""
 import math
 def divisible(a, b):
     if int(a) and int(b) and a>0 and b>0:
